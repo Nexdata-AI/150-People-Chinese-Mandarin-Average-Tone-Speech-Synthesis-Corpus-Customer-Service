@@ -1,8 +1,10 @@
 # 150-People-Chinese-Mandarin-Average-Tone-Speech-Synthesis-Corpus-Customer-Service
-https://www.datatang.ai/datasets/1100
+
 
 ## Description
 150 People - Chinese Mandarin Average Tone Speech Synthesis Corpus-Customer Service. It is recorded by Chinese native speakers,customer service text, and the syllables, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3SeiU5c
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
@@ -27,3 +29,6 @@ word and Pinyin transcription, four-level prosodic boundary annotation;
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
